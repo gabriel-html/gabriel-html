@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
-<!--
-**gabriel-html/gabriel-html** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">
+Meu nome é Gabriel, tenho 17 anos e sou jovem aprendiz na área de tecnologia, do Brasil 🇧🇷.
+Atualmente atuo com desenvolvimento Back-end e estou em constante evolução na programação.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">
+✨ Criando bugs desde o início da minha jornada na programação<br>
+👨‍💻 Atualmente trabalho como jovem aprendiz na área de tecnologia na Clínicorp<br>
+📚 Estou estudando e utilizando no dia a dia TypeScript, Node.js, JavaScript e React<br>
+🎯 Objetivo: me tornar um desenvolvedor Full Stack, com foco principal em Back-end<br>
+🎲 Curiosidade: gosto de entender como tudo funciona por trás do código
+</p>
+
+###
+
+<h2 align="left">Eu programo com</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
+</div>
+
+###
